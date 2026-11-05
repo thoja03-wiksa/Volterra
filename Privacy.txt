@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Voxel Survivors – Privacy Policy</title>
+
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 760px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.55;
+      color: #2b2320;
+    }
+
+    h1, h2 {
+      color: #5a3a22;
+    }
+
+    a {
+      color: #345ea8;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Voxel Survivors – Privacy Policy</h1>
+
+<p>Last updated: 5 November 2026</p>
+
+<p>
+Voxel Survivors ("the app") is a mobile game developed and published by
+iHoja Studios ("we", "us" or "our").
+This Privacy Policy explains what information is processed when you use the app.
+</p>
+
+
+<h2>Data we collect ourselves</h2>
+
+<p>
+We do not currently require users to create an account and we do not directly
+collect personal information such as your name, email address, phone number
+or physical address.
+</p>
+
+<p>
+Game progress, settings, resources, unlocked content and other gameplay data
+are currently stored locally on your device.
+This information is not uploaded to our servers.
+</p>
+
+<p>
+Local game data may be removed if you uninstall the app, clear the app's data
+or reset your device.
+</p>
+
+
+<h2>Advertising – Google AdMob</h2>
+
+<p>
+Voxel Survivors may display advertisements, including optional rewarded video
+ads, using Google AdMob.
+</p>
+
+<p>
+When advertisements are displayed, Google and its advertising partners may
+automatically collect or process certain information, including:
+</p>
+
+<ul>
+  <li>Advertising identifiers</li>
+  <li>IP address</li>
+  <li>Approximate location derived from network information</li>
+  <li>Device information</li>
+  <li>Operating system and app information</li>
+  <li>Advertising interactions and impressions</li>
+  <li>Diagnostic and performance information</li>
+</ul>
+
+<p>
+This information may be used to deliver advertisements, prevent fraud,
+measure advertising performance and, where permitted and consented to,
+provide personalised advertising.
+</p>
+
+<p>
+We do not directly receive or store this advertising information in our own
+user database. It is processed by Google and its advertising technology
+partners according to their respective privacy policies.
+</p>
+
+
+<h2>Advertising consent</h2>
+
+<p>
+For users in the European Economic Area (EEA), the United Kingdom and
+Switzerland, the app may display a consent message before advertising data
+is used where consent is legally required.
+</p>
+
+<p>
+Depending on your choices and applicable law, advertisements may be
+personalised or non-personalised.
+</p>
+
+<p>
+You may also manage certain advertising and privacy settings through your
+Android device settings.
+</p>
+
+<p>
+For more information about how Google processes data, please see:
+</p>
+
+<p>
+<a href="https://policies.google.com/technologies/partner-sites">
+How Google uses information from sites or apps that use its services
+</a>
+</p>
+
+<p>
+<a href="https://policies.google.com/privacy">
+Google Privacy Policy
+</a>
+</p>
+
+
+<h2>In-app purchases</h2>
+
+<p>
+If Voxel Survivors offers digital purchases in the future, payments may be
+processed through Google Play.
+</p>
+
+<p>
+We do not receive or store your full payment card or banking information.
+Payment information is processed by Google according to Google Play's terms
+and privacy policies.
+</p>
+
+
+<h2>Children</h2>
+
+<p>
+Voxel Survivors is not specifically directed at children under the age of 13.
+We do not knowingly collect personal information directly from children.
+</p>
+
+<p>
+Advertising services used by the app may apply additional protections when
+required by applicable law and Google policies.
+</p>
+
+
+<h2>Data retention and deletion</h2>
+
+<p>
+Because gameplay progress is currently stored locally on your device, we do
+not maintain a server-side copy of that gameplay information.
+</p>
+
+<p>
+You can remove locally stored gameplay data by clearing the app's storage or
+uninstalling the app.
+</p>
+
+<p>
+Data processed independently by third-party services such as Google may be
+retained according to their own privacy and retention policies.
+</p>
+
+
+<h2>Data security</h2>
+
+<p>
+We take reasonable steps to minimise the amount of personal information
+processed by the app.
+</p>
+
+<p>
+Third-party services used by the app are responsible for protecting
+information processed through their systems according to their respective
+security and privacy practices.
+</p>
+
+
+<h2>Your privacy rights</h2>
+
+<p>
+Depending on where you live, including under the GDPR, you may have rights
+relating to personal data such as the right to access, correct, delete or
+restrict certain processing and the right to withdraw consent where consent
+is the legal basis for processing.
+</p>
+
+<p>
+Because we do not currently maintain user accounts or directly store personal
+user information on our servers, requests relating specifically to advertising
+data may need to be directed to Google.
+</p>
+
+<p>
+You may still contact us if you have a privacy-related question and we will
+assist where reasonably possible.
+</p>
+
+
+<h2>Changes to this Privacy Policy</h2>
+
+<p>
+We may update this Privacy Policy when the app changes, for example if we add
+accounts, cloud saves, analytics, additional advertising services or other
+online features.
+</p>
+
+<p>
+The latest version of this Privacy Policy will be published on this page and
+the "Last updated" date will be changed accordingly.
+</p>
+
+
+<h2>Contact</h2>
+
+<p>
+iHoja Studios<br>
+Email:
+<a href="mailto:t.hoja03@gmail.com">t.hoja03@gmail.com</a>
+</p>
+
+</body>
+</html>
